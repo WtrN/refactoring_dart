@@ -1,2 +1,7 @@
-A simple command-line application.
 # refactoring_dart
+
+リファクタリング　第2版
+マーチン・ファウラー著
+オーム社
+
+のサンプルコードをDartで再実装したサンプル集
